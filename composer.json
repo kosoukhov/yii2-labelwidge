@@ -8,7 +8,6 @@
         "issues": "https://github.com/kosoukhov/yii2-LabelWidget/issues",
         "source": "https://github.com/kosoukhov/yii2-LabelWidget"
     },
-    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Vadim Kosoukhov",
